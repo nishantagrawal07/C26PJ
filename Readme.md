@@ -1,2 +1,8 @@
-this is the ingridients of pani puri in ingridients.md
-this is the recipie of pani puri in recipie.md
+# c26pj
+
+
+output link
+
+
+
+https://nishantagrawal07.github.io/C26PJ/.
